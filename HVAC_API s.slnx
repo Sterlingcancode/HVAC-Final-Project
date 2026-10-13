@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HVAC_API s/HVAC_API s.csproj" />
+  <Project Path="HVAC_Core/HVAC_Core.csproj" />
+</Solution>
